@@ -25,6 +25,13 @@ I’m currently shaping my skills around a few essentials and documenting the jo
 
 ---
 
+## GUI Project
+
+### Banking Application
+- using C++, Qt Framework and persistent storage through filing
+
+--- 
+
 ## 📂 Selected Projects (Scripting)
 
 - **Project 6** — Storage Cleanup  
@@ -35,9 +42,9 @@ I’m currently shaping my skills around a few essentials and documenting the jo
 - **Project 1** — Greeter Script  
 - Plus several utilities exploring conditionals, password checking, file handling, and automation helpers.
 
-## GUI Project
--- Banking Application with C++, Qt Framework and persistent storage through filing
 
+
+---
 
 These are experiments and building blocks, steadily expanding into more reliable tooling.  
 
