@@ -2,21 +2,46 @@
 
 > Learning by building, refining by breaking.  
 
-Currently shaping my skills around a few essentials:
-
-**Code**  
-→ Java, with focus on Data Structures & Algorithms  
-
-**Shell**  
-→ Bash scripting for automation and clarity  
-
-**System**  
-→ Arch Linux btw, tuned through configs and custom keybindings  
-
-**Workflow**  
-→ Mastering the terminal, shortcuts across OS’s, and Neovim as home base btw
-
+I’m currently shaping my skills around a few essentials and documenting the journey here.
 
 ---
 
-This space is my logbook — configs, small projects, and experiments that map the journey forward.
+## 🛠️ Skills & Focus
+
+**Programming**  
+- Java (with emphasis on Data Structures & Algorithms, OOP)  
+- C++ (including Qt for GUI applications)  
+- Python (general-purpose scripting, problem solving)  
+
+**Scripting & Automation**  
+- Bash scripting for workflow automation and system utilities  
+- Custom shortcuts and keybindings across OSs  
+- Neovim setup and workflow optimization  
+
+**Systems & Tools**  
+- Arch Linux (tuned with configs and dotfiles)  
+- Mastery of the terminal as a daily driver  
+- Java Swing for desktop development  
+
+---
+
+## 📂 Selected Projects (Scripting)
+
+- **Project 6** — Storage Cleanup  
+- **Project 5** — Storage Checker  
+- **Project 4** — Backup System  
+- **Project 3** — Number Guesser  
+- **Project 2** — File Checker (extended version)  
+- **Project 1** — Greeter Script  
+- Plus several utilities exploring conditionals, password checking, file handling, and automation helpers.
+
+## GUI Project
+-- Banking Application with C++, Qt Framework and persistent storage through filing
+
+
+These are experiments and building blocks, steadily expanding into more reliable tooling.  
+
+---
+
+## 📌 Note
+This space is my logbook: configs, small projects, and experiments that map the journey forward.  
