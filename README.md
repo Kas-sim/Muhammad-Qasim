@@ -10,10 +10,66 @@
 💡 Building production-ready desktop applications (Swing, JavaFX, Qt)  
 🤖 Exploring AI/ML with Python, NumPy, Pandas & Matplotlib  
 ⚡ Systems programming core built on C++ and Bash automation  
+⌨️ **Keyboard-driven workflow obsessive** — CLI-first, mouse-optional efficiency  
 🚀 Bridging theory with practical, maintainable software
 
 📬 **Reach me at:** amkassim444@gmail.com  
 💼 **GitHub:** [@Kas-sim](https://github.com/Kas-sim)
+
+---
+
+## ⌨️ Efficiency-Driven Workflow Philosophy
+
+```bash
+# My development environment reflects a simple principle:
+# "If your hands leave the keyboard, you're losing time."
+
+$ whoami
+→ Keyboard shortcut obsessive who memorized every Windows, Arch, and browser hotkey
+
+$ workflow --describe
+→ CLI-first developer: Git commands over GUI, terminal over mouse clicks
+→ Neovim devotee: hjkl navigation, zero mouse dependency
+→ Automation fanatic: If it's repetitive, it gets scripted
+
+$ efficiency --metrics
+→ Windows: Win+[1-9], Alt+Tab muscle memory, PowerShell automation
+→ Arch Linux: i3wm/sway bindings, terminal multiplexing, everything scriptable  
+→ Browsers: Vimium-style navigation, keyboard-only browsing
+→ IDEs: Custom keybindings, modal editing everywhere possible
+
+$ philosophy
+→ "Master your tools so they become invisible"
+→ "The mouse is for design work, not development"
+→ "Every repeated action deserves a keybinding"
+```
+
+### 🎯 Workflow Mastery Areas
+
+<table>
+<tr>
+<td width="50%">
+
+**Operating Systems**
+- ⌨️ Windows shortcuts (Win+X power menu expert)
+- ⌨️ Arch Linux (i3/sway window management)
+- ⌨️ Terminal multiplexing (tmux/screen)
+- ⌨️ Cross-OS muscle memory adaptation
+
+</td>
+<td width="50%">
+
+**Development Tools**
+- ⌨️ Git CLI fluency (never touch GUI)
+- ⌨️ Neovim modal editing mastery
+- ⌨️ VS Code Vim extension when needed
+- ⌨️ Browser DevTools keyboard nav
+
+</td>
+</tr>
+</table>
+
+**Impact:** This keyboard-first approach translates to measurably faster coding, navigation, and task completion. Every app I use gets its shortcuts memorized within the first week.
 
 ---
 
@@ -65,15 +121,15 @@
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ DevOps & Automation
+### ⚙️ Workflow & Automation
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-- **Bash Scripting:** System automation & workflows
-- **Python Scripts:** Task automation & data processing
-- **Arch Linux:** Custom configs, system administration
-- **Neovim:** Keyboard-driven development workflow
+- **CLI Expert:** Terminal-first workflow (Git, CMD, Bash)
+- **Keyboard Ninja:** Every shortcut memorized (Windows, Arch, browsers)
+- **Bash/Python Automation:** System scripting & task optimization
+- **Neovim Power User:** Modal editing, zero mouse dependency
 
 </td>
 </tr>
@@ -106,10 +162,12 @@ Intermediate Level (Active Learning):
     - 🔄 AI/ML concepts in progress
 
 Supporting Tools:
-  - ✅ Git version control
-  - ✅ Linux system administration (Arch)
-  - ✅ Terminal-first workflow
-  - ✅ Neovim configuration
+  - ✅ Git CLI mastery (zero GUI dependency)
+  - ✅ Windows CMD power user
+  - ✅ Arch Linux terminal expert
+  - ✅ Browser keyboard navigation (Vimium-style)
+  - ✅ Cross-platform shortcut fluency
+  - ✅ Mouse-optional efficiency mindset
 ```
 
 ---
@@ -235,7 +293,8 @@ Supporting Tools:
 
 ## 💡 Technical Philosophy
 
-> *"Learning by building, refining by breaking."*
+> *"Learning by building, refining by breaking."*  
+> *"If your hands leave the keyboard, you're losing time."*
 
 ```java
 public class EngineeringPrinciples {
@@ -243,8 +302,9 @@ public class EngineeringPrinciples {
         "fundamentals", "Master the basics before chasing frameworks",
         "projects", "Ship working code, not just tutorials",
         "automation", "If you do it twice, script it",
-        "documentation", "Code explains how, comments explain why",
-        "testing", "Break it in dev, not in prod"
+        "efficiency", "Learn every shortcut. Avoid the mouse. Stay in flow.",
+        "cli_first", "Terminal over GUI. Command line over clicks.",
+        "documentation", "Code explains how, comments explain why"
     );
     
     public List<String> dailyPractice() {
@@ -252,9 +312,15 @@ public class EngineeringPrinciples {
             "Write clean, intentional code",
             "Solve DSA problems regularly",
             "Build real projects with real constraints",
-            "Refactor before complexity grows",
-            "Learn by teaching through code"
+            "Memorize shortcuts of every tool I touch",
+            "Script repetitive tasks immediately",
+            "Stay in the terminal, avoid context switching"
         );
+    }
+    
+    public String workflowPhilosophy() {
+        return "Keyboard-driven development isn't about speed—it's about " +
+               "maintaining flow state. Every mouse click is a context switch.";
     }
 }
 ```
@@ -299,7 +365,8 @@ graph TD
 ### 🎯 Technical Profile
 ```
 Java Developer | DSA & OOP Expert | Desktop Applications Specialist
-Python & AI/ML Enthusiast | C++ Systems Programmer | Linux Automation
+Python & AI/ML Enthusiast | C++ Systems Programmer  
+CLI Power User | Keyboard Workflow Ninja | Arch Linux Expert
 ```
 
 ### 💼 Key Differentiators
@@ -307,13 +374,14 @@ Python & AI/ML Enthusiast | C++ Systems Programmer | Linux Automation
 - ✅ **Production applications** — Swing Habit Tracker, Qt Banking App
 - ✅ **Multi-language capability** — Java, C++, Python, Bash
 - ✅ **AI/ML fundamentals** — NumPy, Pandas, Matplotlib foundation
-- ✅ **Systems automation** — Bash/Python scripting for efficiency
+- ✅ **Keyboard-first workflow** — CLI expert, shortcut obsessive, mouse-optional
+- ✅ **Systems automation** — Bash/Python scripting, terminal power user
 
 ### 🏆 Project Highlights
 | Project | Tech Stack | Status |
 |---------|-----------|---------|
 | 🎯 Habit Tracker | Java + Swing | ✅ Complete |
-| 🏦 Banking App | C++ + Qt | ✅ Complete |
+| 🏦 MQ Bank | C++ + Qt | ✅ Complete |
 | 📊 ML Scripts | Python + Pandas | 🔄 In Progress |
 | 🔧 Automation Suite | Bash + Python | ✅ Active Use |
 
