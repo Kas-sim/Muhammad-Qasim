@@ -2,51 +2,78 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Practical+Engineer;Clean+Design+%7C+Reliable+Automation;Systems+Architect+%7C+Workflow+Optimizer;Learning+by+Building%2C+Refining+by+Breaking)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=Java+Developer+%7C+DSA+Expert;Desktop+Apps+%7C+Swing+%26+JavaFX;AI+Enthusiast+%7C+Python+%26+ML;Systems+Architect+%7C+C%2B%2B+Core;Clean+Code+%7C+Reliable+Automation)
 
 </div>
 
-🎯 **Practical engineer** — focused on clean design, reliable automation, and workflow velocity  
-💡 Building maintainable systems that reduce operational toil and ship faster  
-🔧 Mastering the art of OOP, DSA, and systems-level programming  
-⚡ Terminal-first workflow powered by Neovim, Arch Linux, and custom automation  
-🚀 Bridging legacy desktop stacks with modern tooling and best practices
+🎯 **Java-focused engineer** with strong DSA & OOP foundation  
+💡 Building production-ready desktop applications (Swing, JavaFX, Qt)  
+🤖 Exploring AI/ML with Python, NumPy, Pandas & Matplotlib  
+⚡ Systems programming core built on C++ and terminal automation  
+🚀 Bridging theory with practical, maintainable software
 
 📬 **Reach me at:** amkassim444@gmail.com  
 💼 **GitHub:** [@Kas-sim](https://github.com/Kas-sim)
 
 ---
 
-## 🛠️ Core Competencies
+## 🛠️ Core Tech Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Programming & Development
+### ☕ Java Ecosystem (Primary Focus)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-- **Java:** OOP mastery & DSA expertise — scalable, testable code
-- **C++ & Qt:** Native performance & cross-platform desktop apps
-- **Python:** Rapid prototyping, tooling, data processing
-- **Java Swing:** Legacy UI maintenance & modernization
+- **Core Java:** Advanced OOP principles & design patterns
+- **DSA Mastery:** Algorithms, data structures, problem-solving
+- **Java Swing:** Production desktop apps with custom components
+- **JavaFX:** Modern UI development with FXML & CSS styling
+- **Real Project:** Habit Tracker app with full OOP architecture
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Systems & Automation
+### 🤖 AI/ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+- **Python:** Scripting, automation, and ML fundamentals
+- **NumPy:** Numerical computing & array operations
+- **Pandas:** Data manipulation & analysis
+- **Matplotlib:** Data visualization & plotting
+- **Learning Path:** Currently building AI/ML foundation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Systems Programming
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+- **C++ Core:** Memory management, performance optimization
+- **Qt Framework:** Cross-platform native applications
+- **OOP Design:** SOLID principles in systems-level code
+- **Banking App:** Production-grade Qt desktop application
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ DevOps & Automation
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- **Bash/Shell:** Robust automation & maintenance scripts
-- **Arch Linux:** System configs, package lifecycle, hardening
-- **Neovim & Dotfiles:** Editor-driven workflows & custom environments
-- **Keyboard Mastery:** Efficiency-first, cross-OS keybindings
+- **Bash Scripting:** System automation & maintenance
+- **Arch Linux:** Custom configs, package management
+- **Neovim:** Keyboard-driven development workflow
+- **Git:** Version control & collaborative development
 
 </td>
 </tr>
@@ -54,81 +81,88 @@
 
 ---
 
-## 💼 Market-Facing Value Proposition
+## 💼 Skill Progression & Focus Areas
 
 ```yaml
-Operational Excellence:
-  - Automated scripts that reduce manual intervention by 70%+
-  - Self-healing systems that lower incident response time
-  
-Technical Leadership:
-  - OOP + DSA foundation for scalable, maintainable architectures
-  - Bridge legacy codebases with modern best practices
-  
-Developer Velocity:
-  - Custom tooling that shortens onboarding time by 50%
-  - Reproducible environments that eliminate "works on my machine"
-  
-Measurable Outcomes:
-  - Time saved through automation
-  - Operational toil reduced
-  - Reliability gains across systems
+Primary Expertise (Production-Ready):
+  Java:
+    - Data Structures & Algorithms (DSA)
+    - Object-Oriented Programming (OOP)
+    - Design Patterns & SOLID Principles
+  Desktop Development:
+    - Java Swing: Strong proficiency
+    - JavaFX: Good command with FXML
+    - Qt (C++): Cross-platform native apps
+
+Secondary Stack (Strong Foundation):
+  Systems Programming:
+    - C++: Memory management, performance
+    - System-level architecture
+  AI/ML Journey:
+    - Python: Scripting & ML fundamentals
+    - NumPy, Pandas, Matplotlib basics cleared
+    - Building portfolio projects (in progress)
+
+Supporting Tools:
+  - Bash scripting for automation
+  - Linux system administration
+  - Terminal-first development workflow
 ```
 
 ---
 
-## 🎯 Current Focus Areas
+## 🚀 Featured Projects
 
-<div align="center">
+### 🎯 **Habit Tracker** — Java Desktop Application
+*Full-featured habit tracking app demonstrating OOP mastery*
 
-| 🧠 Technical Depth | 🛠️ Tooling Mastery | 🌐 Systems Engineering |
-|:------------------:|:-------------------:|:---------------------:|
-| Advanced DSA patterns | Neovim plugin dev | Arch Linux hardening |
-| Design patterns in Java | Dotfiles optimization | Shell automation |
-| Qt framework deep-dive | Workflow acceleration | System observability |
+**Architecture Highlights:**
+- Clean OOP design with SOLID principles
+- Custom Swing components for intuitive UX
+- MVC pattern for separation of concerns
+- Data persistence layer with file I/O
+- Modular, testable, and maintainable codebase
 
-</div>
+**Tech Stack:** `Java` `Swing` `OOP Design` `File I/O` `MVC Pattern`
 
 ---
-
-## 🚀 Featured Projects
 
 ### 🏦 **Banking Application** — C++ & Qt Framework
 *Production-grade desktop application with persistent storage*
 
 **Key Features:**
 - Object-oriented architecture with SOLID principles
-- Custom Qt widgets for intuitive UX
-- File-based persistence layer
-- Transaction logging & audit trail
+- Custom Qt widgets for native look-and-feel
+- File-based persistence with transaction logging
+- Audit trail and data integrity checks
 
-**Tech Stack:** `C++` `Qt Framework` `File I/O` `OOP Design`
+**Tech Stack:** `C++` `Qt Framework` `OOP Design` `File Systems`
 
 ---
 
-### 📂 **Scripting Arsenal** — Bash Automation Suite
+### 📂 **Automation Suite** — Bash Scripts Collection
 
 <details>
 <summary><b>🔧 Click to expand automation projects</b></summary>
 
-#### Storage & System Management
+#### System Management
 - **Storage Cleanup** — Intelligent disk space reclamation with safety checks
 - **Storage Checker** — Real-time monitoring with threshold alerts
 - **Backup System** — Incremental backup automation with versioning
 
-#### Utilities & Helpers
-- **Number Guesser** — Interactive CLI game demonstrating control flow
-- **File Checker (Extended)** — Recursive file validation with reporting
-- **Greeter Script** — Dynamic system info display on login
+#### Utilities & Tools
+- **Number Guesser** — Interactive CLI game with control flow
+- **File Validator** — Recursive file checking with detailed reporting
+- **Greeter Script** — Dynamic system info on terminal launch
 
-#### Advanced Experiments
+#### Advanced Tools
 - Password strength validator with entropy calculation
-- Conditional logic exploration through practical scenarios
-- File handling patterns for robust I/O operations
+- Batch file processors for automation workflows
+- System monitoring and alerting scripts
 
 </details>
 
-**Philosophy:** These aren't just scripts — they're building blocks for reliable, maintainable automation.
+**Philosophy:** Production-ready automation that saves hours of manual work.
 
 ---
 
@@ -146,89 +180,114 @@ Measurable Outcomes:
 
 ---
 
+## 🎯 Current Learning Journey
+
+<div align="center">
+
+| 💻 Deepening Expertise | 🤖 AI/ML Expansion | 🏗️ Architecture |
+|:----------------------:|:------------------:|:----------------:|
+| Advanced DSA patterns | ML algorithms & models | System design patterns |
+| JavaFX mastery | Deep learning basics | Scalable architectures |
+| Spring framework | Real-world ML projects | Microservices concepts |
+
+</div>
+
+---
+
 ## 💡 Technical Philosophy
 
 > *"Learning by building, refining by breaking."*
 
-```python
-class EngineeringPrinciples:
-    def __init__(self):
-        self.beliefs = {
-            "automation": "If you do it twice, script it",
-            "documentation": "Code explains how, comments explain why",
-            "tooling": "Invest in your environment, multiply your output",
-            "testing": "Break it in dev, not in prod",
-            "learning": "Ship projects, not tutorials"
-        }
+```java
+public class EngineeringPrinciples {
+    private Map<String, String> beliefs = Map.of(
+        "automation", "If you do it twice, script it",
+        "documentation", "Code explains how, comments explain why",
+        "tooling", "Invest in your environment, multiply your output",
+        "testing", "Break it in dev, not in prod",
+        "learning", "Ship projects, not tutorials"
+    );
     
-    def daily_practice(self):
-        return [
+    public List<String> dailyPractice() {
+        return List.of(
             "Write clean, intentional code",
-            "Automate repetitive tasks",
-            "Document the non-obvious",
+            "Master fundamentals before frameworks",
+            "Build real projects, not just tutorials",
             "Refactor before complexity grows",
-            "Share knowledge through code"
-        ]
+            "Share knowledge through working code"
+        );
+    }
+}
 ```
 
 ---
 
-## 🎓 Skills Progression Map
+## 🎓 Skills Development Roadmap
 
 ```mermaid
-graph LR
-    A[Foundation] --> B[Intermediate]
-    B --> C[Advanced]
-    A --> |Java OOP| D[Design Patterns]
-    A --> |C++ Basics| E[Qt Framework]
-    A --> |Shell Scripts| F[Automation Suites]
-    D --> C
-    E --> C
-    F --> C
-    C --> G[Systems Architecture]
-    C --> H[Performance Optimization]
-    C --> I[Technical Leadership]
+graph TD
+    A[Java Foundation] --> B[Desktop Development]
+    A --> C[DSA Mastery]
+    B --> D[Swing Applications]
+    B --> E[JavaFX Projects]
+    C --> F[Algorithm Design]
+    
+    G[C++ Core] --> H[Qt Framework]
+    H --> I[Banking App]
+    
+    J[Python Basics] --> K[AI/ML Stack]
+    K --> L[NumPy & Pandas]
+    K --> M[Matplotlib & Visualization]
+    
+    D --> N[Production Apps]
+    E --> N
+    I --> N
+    F --> N
+    L --> O[ML Projects]
+    M --> O
+    
+    N --> P[Full-Stack Engineer]
+    O --> P
 ```
 
 ---
 
-## 📌 Quick Reference
+## 📌 Resume Summary
 
-### Resume Headline
+### Technical Profile
 ```
-Java (OOP & DSA) • Systems Automation • Neovim & Linux Power-User
+Java Developer | DSA & OOP Expert | Desktop Apps (Swing, JavaFX, Qt)
+AI/ML Learner | Python & Data Science | Systems Automation Specialist
 ```
 
-### Interview Preparation Checklist
-- ✅ OOP design examples (SOLID principles in action)
-- ✅ Shell script portfolio (time-saved metrics)
-- ✅ Dotfiles demo (workflow optimization proof)
-- ✅ Qt project walkthrough (architecture decisions)
-- ✅ DSA problem-solving live coding
+### Key Differentiators
+- ✅ **Strong Java fundamentals** — DSA, OOP, design patterns
+- ✅ **Production desktop apps** — Swing Habit Tracker, Qt Banking App
+- ✅ **Multi-paradigm developer** — Java, C++, Python
+- ✅ **AI/ML foundation** — NumPy, Pandas, Matplotlib basics cleared
+- ✅ **Systems automation** — Bash scripting for operational efficiency
 
-### Hiring Signal Emphasis
-- 📈 Measurable outcomes (time saved, ops reduced)
-- 🔧 Real-world automation impact
-- 🎯 Reliability gains through testing
-- 💼 Legacy system modernization experience
+### Project Portfolio Highlights
+- 🎯 Habit Tracker (Java Swing) — Full OOP architecture
+- 🏦 Banking App (C++ Qt) — Production-grade desktop software
+- 📊 Data analysis scripts (Python) — Pandas & visualization
+- 🔧 Automation suite (Bash) — Time-saving system scripts
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🤝 Open to Collaboration On
 
-I'm always interested in projects that involve:
-
-- 🏗️ **Architecture Design** — Building scalable, maintainable systems
-- ⚡ **Workflow Automation** — Eliminating toil through smart scripting
-- 🖥️ **Desktop Applications** — Qt/Swing GUI development
-- 🔧 **Developer Tooling** — Making engineering teams more productive
-- 📚 **Knowledge Sharing** — Technical writing and documentation
+- 🏗️ **Java Desktop Applications** — Swing, JavaFX, or cross-platform
+- 🤖 **AI/ML Projects** — Learning through building real solutions
+- 💻 **Systems Software** — Performance-critical C++ applications
+- ⚡ **Developer Tools** — Productivity automation & workflows
+- 📚 **Open Source** — Contributing to Java/Python ecosystems
 
 ---
 
 <div align="center">
 
-### 💬 Get In Touch
+### 💬 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-amkassim444@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amkassim444@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@Kas--sim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kas-sim)
@@ -237,6 +296,6 @@ I'm always interested in projects that involve:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kas-sim&color=00F7FF&style=for-the-badge)
 
-**⚡ "Code with purpose, automate with intent, engineer for impact."**
+**⚡ "Master the fundamentals. Build real projects. Ship working code."**
 
 </div>
