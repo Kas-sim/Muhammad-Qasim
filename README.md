@@ -273,8 +273,6 @@ $ philosophy
 
 </div>
 
-> **Note:** GitHub stats may not reflect all work, especially private repositories and local projects. See projects section for comprehensive portfolio.
-
 ---
 
 ## 🎯 Current Learning Journey
