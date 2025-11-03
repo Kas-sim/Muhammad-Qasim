@@ -18,61 +18,6 @@
 
 ---
 
-## ⌨️ Efficiency-Driven Workflow Philosophy
-
-```bash
-# My development environment reflects a simple principle:
-# "If your hands leave the keyboard, you're losing time."
-
-$ whoami
-→ Keyboard shortcut obsessive who memorized every Windows, Arch, and browser hotkey
-
-$ workflow --describe
-→ CLI-first developer: Git commands over GUI, terminal over mouse clicks
-→ Neovim devotee: hjkl navigation, zero mouse dependency
-→ Automation fanatic: If it's repetitive, it gets scripted
-
-$ efficiency --metrics
-→ Windows: Win+[1-9], Alt+Tab muscle memory, PowerShell automation
-→ Arch Linux: i3wm/sway bindings, terminal multiplexing, everything scriptable  
-→ Browsers: Vimium-style navigation, keyboard-only browsing
-→ IDEs: Custom keybindings, modal editing everywhere possible
-
-$ philosophy
-→ "Master your tools so they become invisible"
-→ "The mouse is for design work, not development"
-→ "Every repeated action deserves a keybinding"
-```
-
-### 🎯 Workflow Mastery Areas
-
-<table>
-<tr>
-<td width="50%">
-
-**Operating Systems**
-- ⌨️ Windows shortcuts (Win+X power menu expert)
-- ⌨️ Arch Linux (i3/sway window management)
-- ⌨️ Terminal multiplexing (tmux/screen)
-- ⌨️ Cross-OS muscle memory adaptation
-
-</td>
-<td width="50%">
-
-**Development Tools**
-- ⌨️ Git CLI fluency (never touch GUI)
-- ⌨️ Neovim modal editing mastery
-- ⌨️ VS Code Vim extension when needed
-- ⌨️ Browser DevTools keyboard nav
-
-</td>
-</tr>
-</table>
-
-**Impact:** This keyboard-first approach translates to measurably faster coding, navigation, and task completion. Every app I use gets its shortcuts memorized within the first week.
-
----
-
 ## 🛠️ Core Tech Stack
 
 <table>
@@ -169,6 +114,61 @@ Supporting Tools:
   - ✅ Cross-platform shortcut fluency
   - ✅ Mouse-optional efficiency mindset
 ```
+
+---
+
+## ⌨️ Efficiency-Driven Workflow Philosophy
+
+```bash
+# My development environment reflects a simple principle:
+# "If your hands leave the keyboard, you're losing time."
+
+$ whoami
+→ Keyboard shortcut obsessive who memorized every Windows, Arch, and browser hotkey
+
+$ workflow --describe
+→ CLI-first developer: Git commands over GUI, terminal over mouse clicks
+→ Neovim devotee: hjkl navigation, zero mouse dependency
+→ Automation fanatic: If it's repetitive, it gets scripted
+
+$ efficiency --metrics
+→ Windows: Win+[1-9], Alt+Tab muscle memory, PowerShell automation
+→ Arch Linux: i3wm/sway bindings, terminal multiplexing, everything scriptable  
+→ Browsers: Vimium-style navigation, keyboard-only browsing
+→ IDEs: Custom keybindings, modal editing everywhere possible
+
+$ philosophy
+→ "Master your tools so they become invisible"
+→ "The mouse is for design work, not development"
+→ "Every repeated action deserves a keybinding"
+```
+
+### 🎯 Workflow Mastery Areas
+
+<table>
+<tr>
+<td width="50%">
+
+**Operating Systems**
+- ⌨️ Windows shortcuts (Win+X power menu expert)
+- ⌨️ Arch Linux (i3/sway window management)
+- ⌨️ Terminal multiplexing (tmux/screen)
+- ⌨️ Cross-OS muscle memory adaptation
+
+</td>
+<td width="50%">
+
+**Development Tools**
+- ⌨️ Git CLI fluency (never touch GUI)
+- ⌨️ Neovim modal editing mastery
+- ⌨️ VS Code Vim extension when needed
+- ⌨️ Browser DevTools keyboard nav
+
+</td>
+</tr>
+</table>
+
+**Impact:** This keyboard-first approach translates to measurably faster coding, navigation, and task completion. Every app I use gets its shortcuts memorized within the first week.
 
 ---
 
