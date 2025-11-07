@@ -11,7 +11,7 @@
 ```
 Java Developer | DSA & OOP Expert | Desktop Applications Specialist
 Python & AI/ML Enthusiast | C++ Systems Programmer  
-CLI Power User | Keyboard Workflow Ninja | Arch Linux Expert
+CLI Power User | Keyboard Workflow Ninja | Arch Linux Expert | Master Prompt Engineer
 ```
 
 ---
