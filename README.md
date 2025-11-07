@@ -6,6 +6,14 @@
 
 </div>
 
+
+### 🎯 Technical Profile
+```
+Java Developer | DSA & OOP Expert | Desktop Applications Specialist
+Python & AI/ML Enthusiast | C++ Systems Programmer  
+CLI Power User | Keyboard Workflow Ninja | Arch Linux Expert
+```
+
 🎯 **Java-focused engineer** with strong DSA & OOP foundation  
 💡 Building production-ready desktop applications (Swing, JavaFX, Qt)  
 🤖 Exploring AI/ML with Python, NumPy, Pandas & Matplotlib  
@@ -79,96 +87,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 💼 Skills Breakdown by Proficiency
-
-```yaml
-Expert Level (Production Ready):
-  Java:
-    - ✅ Data Structures & Algorithms (DSA)
-    - ✅ Object-Oriented Programming (OOP)
-    - ✅ Design Patterns & SOLID Principles
-    - ✅ Java Swing - Strong proficiency
-    - ✅ JavaFX - Good command with FXML
-  
-  C++:
-    - ✅ Core language & memory management
-    - ✅ Qt Framework for desktop apps
-    - ✅ Systems-level programming
-
-Intermediate Level (Active Learning):
-  Python:
-    - 🔄 Scripting & automation (Bash + Python)
-    - 🔄 NumPy fundamentals cleared
-    - 🔄 Pandas data manipulation
-    - 🔄 Matplotlib visualization
-    - 🔄 AI/ML concepts in progress
-
-Supporting Tools:
-  - ✅ Git CLI mastery (zero GUI dependency)
-  - ✅ Windows CMD power user
-  - ✅ Arch Linux terminal expert
-  - ✅ Browser keyboard navigation (Vimium-style)
-  - ✅ Cross-platform shortcut fluency
-  - ✅ Mouse-optional efficiency mindset
-```
-
----
-
-## ⌨️ Efficiency-Driven Workflow Philosophy
-
-```bash
-# My development environment reflects a simple principle:
-# "If your hands leave the keyboard, you're losing time."
-
-$ whoami
-→ Keyboard shortcut obsessive who memorized every Windows, Arch, and browser hotkey
-
-$ workflow --describe
-→ CLI-first developer: Git commands over GUI, terminal over mouse clicks
-→ Neovim devotee: hjkl navigation, zero mouse dependency
-→ Automation fanatic: If it's repetitive, it gets scripted
-
-$ efficiency --metrics
-→ Windows: Win+[1-9], Alt+Tab muscle memory, PowerShell automation
-→ Arch Linux: i3wm/sway bindings, terminal multiplexing, everything scriptable  
-→ Browsers: Vimium-style navigation, keyboard-only browsing
-→ IDEs: Custom keybindings, modal editing everywhere possible
-
-$ philosophy
-→ "Master your tools so they become invisible"
-→ "The mouse is for design work, not development"
-→ "Every repeated action deserves a keybinding"
-```
-
-### 🎯 Workflow Mastery Areas
-
-<table>
-<tr>
-<td width="50%">
-
-**Operating Systems**
-- ⌨️ Windows shortcuts (Win+X power menu expert)
-- ⌨️ Arch Linux (i3/sway window management)
-- ⌨️ Terminal multiplexing (tmux/screen)
-- ⌨️ Cross-OS muscle memory adaptation
-
-</td>
-<td width="50%">
-
-**Development Tools**
-- ⌨️ Git CLI fluency (never touch GUI)
-- ⌨️ Neovim modal editing mastery
-- ⌨️ VS Code Vim extension when needed
-- ⌨️ Browser DevTools keyboard nav
-
-</td>
-</tr>
-</table>
-
-**Impact:** This keyboard-first approach translates to measurably faster coding, navigation, and task completion. Every app I use gets its shortcuts memorized within the first week.
 
 ---
 
@@ -275,56 +193,6 @@ $ philosophy
 
 ---
 
-## 🎯 Current Learning Journey
-
-<div align="center">
-
-| 💻 Deepening Java | 🤖 Expanding AI/ML | 🏗️ Architecture |
-|:----------------:|:------------------:|:----------------:|
-| Advanced design patterns | ML algorithms basics | System design |
-| Spring Boot framework | Neural networks | Scalable systems |
-| Microservices concepts | TensorFlow/PyTorch | Cloud patterns |
-
-</div>
-
----
-
-## 💡 Technical Philosophy
-
-> *"Learning by building, refining by breaking."*  
-> *"If your hands leave the keyboard, you're losing time."*
-
-```java
-public class EngineeringPrinciples {
-    private final Map<String, String> beliefs = Map.of(
-        "fundamentals", "Master the basics before chasing frameworks",
-        "projects", "Ship working code, not just tutorials",
-        "automation", "If you do it twice, script it",
-        "efficiency", "Learn every shortcut. Avoid the mouse. Stay in flow.",
-        "cli_first", "Terminal over GUI. Command line over clicks.",
-        "documentation", "Code explains how, comments explain why"
-    );
-    
-    public List<String> dailyPractice() {
-        return List.of(
-            "Write clean, intentional code",
-            "Solve DSA problems regularly",
-            "Build real projects with real constraints",
-            "Memorize shortcuts of every tool I touch",
-            "Script repetitive tasks immediately",
-            "Stay in the terminal, avoid context switching"
-        );
-    }
-    
-    public String workflowPhilosophy() {
-        return "Keyboard-driven development isn't about speed—it's about " +
-               "maintaining flow state. Every mouse click is a context switch.";
-    }
-}
-```
-
----
-
 ## 🎓 Skills Development Roadmap
 
 ```mermaid
@@ -357,15 +225,6 @@ graph TD
 ```
 
 ---
-
-## 📌 Professional Summary
-
-### 🎯 Technical Profile
-```
-Java Developer | DSA & OOP Expert | Desktop Applications Specialist
-Python & AI/ML Enthusiast | C++ Systems Programmer  
-CLI Power User | Keyboard Workflow Ninja | Arch Linux Expert
-```
 
 ### 💼 Key Differentiators
 - ✅ **Strong Java foundation** — DSA, OOP, design patterns expertise
