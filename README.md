@@ -14,6 +14,8 @@ Python & AI/ML Enthusiast | C++ Systems Programmer
 CLI Power User | Keyboard Workflow Ninja | Arch Linux Expert
 ```
 
+---
+
 🎯 **Java-focused engineer** with strong DSA & OOP foundation  
 💡 Building production-ready desktop applications (Swing, JavaFX, Qt)  
 🤖 Exploring AI/ML with Python, NumPy, Pandas & Matplotlib  
