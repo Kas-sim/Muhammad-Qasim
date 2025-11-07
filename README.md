@@ -23,9 +23,6 @@ CLI Power User | Keyboard Workflow Ninja | Arch Linux Expert | Master Prompt Eng
 ⌨️ **Keyboard-driven workflow obsessive** — CLI-first, mouse-optional efficiency  
 🚀 Bridging theory with practical, maintainable software
 
-📬 **Reach me at:** amkassim444@gmail.com  
-💼 **GitHub:** [@Kas-sim](https://github.com/Kas-sim)
-
 ---
 
 ## 🛠️ Core Tech Stack
@@ -94,22 +91,6 @@ CLI Power User | Keyboard Workflow Ninja | Arch Linux Expert | Master Prompt Eng
 
 ## 🚀 Featured Projects
 
-### 🎯 **Habit Tracker** — Java Swing Application
-*Full-featured habit tracking desktop app demonstrating OOP mastery*
-
-**Architecture Highlights:**
-- Clean OOP design following SOLID principles
-- Custom Swing components for intuitive UX
-- MVC pattern for clear separation of concerns
-- Persistent data storage with file I/O
-- Modular, testable, and maintainable codebase
-
-**Tech Stack:** `Java` `Swing` `OOP Design` `File I/O` `MVC Pattern`
-
-**Skills Demonstrated:** Advanced Java, GUI development, design patterns, software architecture
-
----
-
 ### 🏦 **Banking Application** — C++ & Qt Framework
 *Production-grade desktop application with robust data handling*
 
@@ -123,6 +104,22 @@ CLI Power User | Keyboard Workflow Ninja | Arch Linux Expert | Master Prompt Eng
 **Tech Stack:** `C++` `Qt Framework` `OOP Design` `File Systems`
 
 **Skills Demonstrated:** Systems programming, Qt framework, database design
+
+---
+
+### 🎯 **Habit Tracker** — Java Swing Application
+*Full-featured habit tracking desktop app demonstrating OOP mastery*
+
+**Architecture Highlights:**
+- Clean OOP design following SOLID principles
+- Custom Swing components for intuitive UX
+- MVC pattern for clear separation of concerns
+- Persistent data storage with file I/O
+- Modular, testable, and maintainable codebase
+
+**Tech Stack:** `Java` `Swing` `OOP Design` `File I/O` `MVC Pattern`
+
+**Skills Demonstrated:** Advanced Java, GUI development, design patterns, software architecture
 
 ---
 
@@ -192,39 +189,6 @@ CLI Power User | Keyboard Workflow Ninja | Arch Linux Expert | Master Prompt Eng
 | 📜 Bash | ██████░░░░ 65% | Automation Scripts |
 
 </div>
-
----
-
-## 🎓 Skills Development Roadmap
-
-```mermaid
-graph TD
-    A[Java Foundation] --> B[Desktop Development]
-    A --> C[DSA Mastery]
-    B --> D[Swing - Habit Tracker]
-    B --> E[JavaFX Projects]
-    C --> F[Algorithm Design]
-    
-    G[C++ Core] --> H[Qt Framework]
-    H --> I[Banking Application]
-    
-    J[Python Basics] --> K[Scripting]
-    K --> L[NumPy & Pandas]
-    L --> M[AI/ML Foundation]
-    M --> N[ML Projects]
-    
-    D --> O[Production Apps]
-    E --> O
-    I --> O
-    N --> P[Full-Stack Portfolio]
-    O --> P
-    
-    style A fill:#ED8B00
-    style D fill:#ED8B00
-    style E fill:#ED8B00
-    style L fill:#3776AB
-    style M fill:#3776AB
-```
 
 ---
 
