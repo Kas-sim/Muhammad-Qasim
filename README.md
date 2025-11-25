@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=333333&center=true&vCenter=true&random=false&width=650&lines=Systems+Architecture+%7C+Java+%26+C%2B%2B;AI+Engineering+%7C+NLP+%26+TensorFlow;Building+Search+Engines+from+First+Principles;Arch+Linux+%7C+Neovim+%7C+High+Agency)
 
 [![Email](https://img.shields.io/badge/Email-amkassim444@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amkassim444@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-qasim-kas-sim/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-qasim-967a6a332)
 
 </div>
 
