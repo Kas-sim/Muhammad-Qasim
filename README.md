@@ -89,12 +89,14 @@ I don't just implement APIs; I deconstruct them. From memory management in C++ t
 | **Workflow** | ![Arch](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kas-sim&show_icons=true&theme=graywhite&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&count_private=true&hide_title=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kas-sim&layout=compact&theme=graywhite&hide_border=true&title_color=000000&text_color=333333&langs_count=6&hide=html,css" height="150" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kas-sim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff)](https://github.com/Kas-sim)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kas-sim&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=6&hide=html,css)](https://github.com/Kas-sim)
 
 ### **Master the fundamentals. Build things that matter.**
+
+</div>
 
 </div>
