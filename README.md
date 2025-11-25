@@ -1,237 +1,100 @@
-# Hey there 👋, I'm Muhammad Qasim!
+# Muhammad Qasim.
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=Java+Developer+%7C+DSA+%26+OOP+Expert;Swing+%26+JavaFX+%7C+Desktop+Apps;Python+%7C+AI%2FML+Learner;C%2B%2B+Core+%7C+Systems+Programming;Bash+Automation+%7C+Linux+Power+User)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=333333&center=true&vCenter=true&random=false&width=650&lines=Systems+Architecture+%7C+Java+%26+C%2B%2B;AI+Engineering+%7C+NLP+%26+TensorFlow;Building+Search+Engines+from+First+Principles;Arch+Linux+%7C+Neovim+%7C+High+Agency)
+
+[![Email](https://img.shields.io/badge/Email-amkassim444@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amkassim444@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-qasim-kas-sim/)
 
 </div>
 
+---
 
-### 🎯 Technical Profile
-```
-Java Developer | DSA & OOP Expert | Desktop Applications Specialist
-Python & AI/ML Enthusiast | C++ Systems Programmer  
-CLI Power User | Keyboard Workflow Ninja | Arch Linux Expert | Master Prompt Engineer
-```
+### ⚡ The Philosophy
+I am a Software Engineer obsessed with **First Principles**.
+I don't just implement APIs; I deconstruct them. From memory management in C++ to vectorizing text for NLP, I build systems to understand the math and logic that drives them.
+
+* **Core Focus:** High-performance Systems (Java/C++) & Applied AI.
+* **Workflow:** Arch Linux. Neovim. CLI-first. I optimize for speed and sovereignty over my tools.
+* **Current State:** Scaling from `scikit-learn` to Deep Learning & TensorFlow.
 
 ---
 
-🎯 **Java-focused engineer** with strong DSA & OOP foundation  
-💡 Building production-ready desktop applications (Swing, JavaFX, Qt)  
-🤖 Exploring AI/ML with Python, NumPy, Pandas & Matplotlib  
-⚡ Systems programming core built on C++ and Bash automation  
-⌨️ **Keyboard-driven workflow obsessive** — CLI-first, mouse-optional efficiency  
-🚀 Bridging theory with practical, maintainable software
-
----
-
-## 🛠️ Core Tech Stack
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☕ Java Ecosystem (Primary Focus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-- **Core Java:** Advanced OOP principles & design patterns
-- **DSA Mastery:** Algorithms, data structures, problem-solving
-- **Java Swing:** Production desktop apps (Habit Tracker)
-- **JavaFX:** Modern UI development with FXML & CSS
-- **Real Projects:** Full OOP architecture implementations
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI/ML & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-- **Python:** Scripting, automation, ML fundamentals
-- **NumPy:** Numerical computing & array operations
-- **Pandas:** Data manipulation & analysis
-- **Matplotlib:** Data visualization & plotting
-- **Status:** Building foundational AI/ML projects
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Systems Programming
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
-- **C++ Core:** Memory management, performance optimization
-- **Qt Framework:** Cross-platform desktop applications
-- **OOP Design:** SOLID principles in systems-level code
-- **Banking App:** Production-grade Qt application
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Workflow & Automation
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-
-- **CLI Expert:** Terminal-first workflow (Git, CMD, Bash)
-- **Keyboard Ninja:** Every shortcut memorized (Windows, Arch, browsers)
-- **Bash/Python Automation:** System scripting & task optimization
-- **Neovim Power User:** Modal editing, zero mouse dependency
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-### 🏦 **Banking Application** — C++ & Qt Framework
-*Production-grade desktop application with robust data handling*
-
-**Key Features:**
-- Object-oriented architecture with SOLID principles
-- Native Qt widgets for platform-consistent UI
-- File-based persistence with transaction logging
-- Comprehensive audit trail and data integrity
-- Cross-platform compatibility (Windows, Linux)
-
-**Tech Stack:** `C++` `Qt Framework` `OOP Design` `File Systems`
-
-**Skills Demonstrated:** Systems programming, Qt framework, database design
-
----
-
-### 🎯 **Habit Tracker** — Java Swing Application
-*Full-featured habit tracking desktop app demonstrating OOP mastery*
-
-**Architecture Highlights:**
-- Clean OOP design following SOLID principles
-- Custom Swing components for intuitive UX
-- MVC pattern for clear separation of concerns
-- Persistent data storage with file I/O
-- Modular, testable, and maintainable codebase
-
-**Tech Stack:** `Java` `Swing` `OOP Design` `File I/O` `MVC Pattern`
-
-**Skills Demonstrated:** Advanced Java, GUI development, design patterns, software architecture
-
----
-
-### 📊 **Data Analysis Scripts** — Python Portfolio
-*Python automation and data processing tools*
-
-**Current Focus:**
-- NumPy array operations and numerical computing
-- Pandas data manipulation and analysis
-- Matplotlib visualizations and plotting
-- Building foundation for AI/ML projects
-- Practical scripting for workflow automation
-
-**Tech Stack:** `Python` `NumPy` `Pandas` `Matplotlib` `Jupyter`
-
-**Skills Demonstrated:** Data science fundamentals, scientific computing, automation
-
----
-
-### 📂 **Automation Suite** — Bash & Python Scripts
+## 🚀 Engineering & AI Portfolio
+*Click the arrows to expand the technical deep-dives.*
 
 <details>
-<summary><b>🔧 Click to expand automation projects</b></summary>
+<summary><b>🔍 DevShelf — Custom Search Engine (Java & Algorithms)</b><br><i>Rebuilding Information Retrieval from scratch. No Lucene. No APIs.</i></summary>
+<br>
 
-#### System Management (Bash)
-- **Storage Cleanup** — Intelligent disk space reclamation
-- **Storage Checker** — Real-time monitoring with alerts
-- **Backup System** — Incremental backup automation
+**The Challenge:** Build a scalable search engine without using pre-built libraries like ElasticSearch.
+**The Engineering:**
+* **Indexing Strategy:** Engineered a **Positional Inverted Index** (`HashMap<String, List<Integer>>`) to handle O(1) lookups and proximity queries (e.g., finding *"fox"* only when it appears near *"quick"*).
+* **Ranking Algorithm:** Designed a hybrid signal scoring system: `70% TF-IDF` (Relevance) + `20% CTR` (Popularity) + `10% Quality` (User Rating).
+* **Data Structures:** Implemented **Tries** for low-latency autocomplete and **Graphs** for recommendation traversal.
+* **NLP Pipeline:** Integrated **Porter Stemmer** for root reduction and **Dynamic Programming (Edit Distance)** for typo correction.
+* **Role:** Lead Engineer (Team of 3). Defined the schema, ranking logic, and system architecture.
 
-#### Python Automation
-- **Data Processing** — CSV/Excel file manipulation
-- **Task Automation** — Workflow optimization scripts
-- **System Utilities** — Cross-platform helper tools
-
-#### CLI Utilities
-- **Number Guesser** — Interactive game with control flow
-- **File Validator** — Recursive checking with reports
-- **Greeter Script** — System info display
-
+**Stack:** `Java` `JavaFX` `Tries/HashMaps` `Jackson JSON` `System Design`
 </details>
 
-**Philosophy:** Production-ready automation saving hours of manual work.
+<details>
+<summary><b>🧠 NLP Sentiment Engine — "The Negation Paradox" (Python & AI)</b><br><i>Pushing Logistic Regression to 91% accuracy via Feature Engineering.</i></summary>
+<br>
+
+**The Challenge:** Standard ML models fail at nuance. They see *"This movie is not good"* and *"This movie is good"* as mathematically similar due to word overlap.
+**The Solution:**
+* **Context Injection:** Built a preprocessing pipeline to handle negation, fusing context tokens (e.g., *"not good"* → *"NOT_good"*).
+* **Feature Expansion:** Moved from Unigrams to **Bigrams**, teaching the model to recognize phrase-level sentiment rather than just keywords.
+* **Result:** Achieved **91% Accuracy** on the IMDB 50k dataset, outperforming standard Naive Bayes implementations by focusing on data quality over model complexity.
+
+**Stack:** `Python` `Scikit-Learn` `Pandas` `Numpy` `TF-IDF Vectorization`
+</details>
+
+<details>
+<summary><b>📈 Viral Predictor — Content Analytics (Data Science)</b><br><i>Modeling the mathematics of virality.</i></summary>
+<br>
+
+**The Thesis:** Can we mathematically predict video views based on metadata alone?
+**The Implementation:**
+* **Modeling:** Trained a Linear Regression model on content metadata.
+* **Performance:** Achieved **R² > 0.99** on training data.
+* **Insight:** Quantified the relationship between "Creative Quality" (Thumbnail/Title) and "Distribution Floor" (Subscriber count), proving creative choices determine the ceiling of performance.
+
+**Stack:** `Python` `Matplotlib` `SciPy` `Predictive Modeling`
+</details>
+
+<details>
+<summary><b>🏦 MQ Banking Core — High-Performance System (C++)</b><br><i>Production-grade desktop architecture.</i></summary>
+<br>
+
+**The Challenge:** Create a fault-tolerant financial system with strict data integrity.
+**The Engineering:**
+* **Architecture:** Strictly adhered to **SOLID principles** and OOP design patterns.
+* **Persistence:** Built a custom file-based database system with transaction logging and audit trails.
+* **Security:** Implemented memory-safe operations and secure data handling to prevent corruption.
+
+**Stack:** `C++` `Qt Framework` `File I/O` `Memory Management`
+</details>
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ The Arsenal
 
-<div align="center">
-
-![Qasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kas-sim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kas-sim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8&hide=html,css)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kas-sim&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF)
-
-</div>
-
-### 📈 Language Distribution (Public Repos)
-
-<div align="center">
-
-| Language | Proficiency | Project Count |
-|----------|-------------|---------------|
-| ☕ Java | ████████░░ 85% | Multiple DSA & Desktop Apps |
-| 🐍 Python | ██████░░░░ 60% | ML Scripts & Automation |
-| ⚙️ C++ | ███████░░░ 70% | Qt Apps & Systems |
-| 📜 Bash | ██████░░░░ 65% | Automation Scripts |
-
-</div>
-
----
-
-### 💼 Key Differentiators
-- ✅ **Strong Java foundation** — DSA, OOP, design patterns expertise
-- ✅ **Production applications** — Swing Habit Tracker, Qt Banking App
-- ✅ **Multi-language capability** — Java, C++, Python, Bash
-- ✅ **AI/ML fundamentals** — NumPy, Pandas, Matplotlib foundation
-- ✅ **Keyboard-first workflow** — CLI expert, shortcut obsessive, mouse-optional
-- ✅ **Systems automation** — Bash/Python scripting, terminal power user
-
-### 🏆 Project Highlights
-| Project | Tech Stack | Status |
-|---------|-----------|---------|
-| 🎯 Habit Tracker | Java + Swing | ✅ Complete |
-| 🏦 MQ Bank | C++ + Qt | ✅ Complete |
-| 📊 ML Scripts | Python + Pandas | 🔄 In Progress |
-| 🔧 Automation Suite | Bash + Python | ✅ Active Use |
-
----
-
-## 🤝 Open to Collaboration On
-
-- 🏗️ **Java Desktop Applications** — Swing, JavaFX, or enterprise apps
-- 🤖 **AI/ML Projects** — Learning through real-world problems
-- 💻 **Systems Software** — Performance-critical C++ applications
-- ⚡ **Developer Tools** — Productivity automation & workflows
-- 📚 **Open Source** — Contributing to Java/Python ecosystems
-- 🎓 **Mentoring** — Helping others learn OOP, DSA, and software design
+| **Domain** | **Technology Stack** |
+| :--- | :--- |
+| **Backend & Systems** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **AI & Data Science** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| **Workflow** | ![Arch](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect
+<img src="https://github-readme-stats.vercel.app/api?username=Kas-sim&show_icons=true&theme=graywhite&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&count_private=true&hide_title=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kas-sim&layout=compact&theme=graywhite&hide_border=true&title_color=000000&text_color=333333&langs_count=6&hide=html,css" height="150" />
 
-[![Email](https://img.shields.io/badge/Email-amkassim444@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amkassim444@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@Kas--sim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kas-sim)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kas-sim&color=00F7FF&style=for-the-badge)
-
-**⚡ "Master the fundamentals. Build real projects. Ship working code."**
+### **Master the fundamentals. Build things that matter.**
 
 </div>
