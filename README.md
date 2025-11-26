@@ -91,9 +91,7 @@ I don't just implement APIs; I deconstruct them. From memory management in C++ t
 ---
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kas-sim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff)](https://github.com/Kas-sim)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kas-sim&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=6&hide=html,css)](https://github.com/Kas-sim)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kas-sim&theme=monokai)](https://github.com/Kas-sim)
 
 ### **Master the fundamentals. Build things that matter.**
 
