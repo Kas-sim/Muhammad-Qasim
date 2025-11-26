@@ -93,6 +93,8 @@ I don't just implement APIs; I deconstruct them. From memory management in C++ t
 
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kas-sim&theme=monokai)](https://github.com/Kas-sim)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kas-sim&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF)
+
 ### **Master the fundamentals. Build things that matter.**
 
 </div>
